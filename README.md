@@ -1,6 +1,6 @@
 ## About Me
 
-#T hings I am:
+# Things I am:
 1. I'm learing how to *write* things in **markdown**.
 2. A student
 3. Proficient enought with code to break things regulalry and sometimes figure out why.
